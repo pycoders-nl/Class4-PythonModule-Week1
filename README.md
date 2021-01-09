@@ -1,2 +1,2 @@
 # class4
-Homeworks
+This repository contains homeworks of Class 4
