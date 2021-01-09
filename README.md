@@ -1,2 +1,1 @@
-# class4
-This repository contains homeworks of Class 4
+# Class4-PythonModule-Week1
