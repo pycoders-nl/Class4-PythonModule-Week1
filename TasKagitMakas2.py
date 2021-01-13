@@ -62,7 +62,7 @@ while True:
 
     if oyun_sayi == 0:
         print("10 Tur Bitti...")
-        print("Sonuçlar: Bilgisayar = {}, Oyuncu = {}".format(Bil_Skor,Oyuncu_Skor))
+        print("Skor: Bilgisayar = {}, Oyuncu = {}".format(Bil_Skor,Oyuncu_Skor))
 
         break
 
